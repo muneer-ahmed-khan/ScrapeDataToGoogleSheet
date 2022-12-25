@@ -9,10 +9,10 @@ _- Scrape data from a web site, then output data to a Google Sheet_
 ## **- Tools**
 - Use NodeJS and googleapis JS-based libraries. For web scraping, use Puppeteer
 - Please use the below libraries:
-_- Node_
-_- Express_
-_- Googleapis_
-_- Puppeteer_
+        _- Node_
+        _- Express_
+        _- Googleapis_
+        _- Puppeteer_
 
 
 ## - Task Details:
